@@ -10,3 +10,7 @@ System.out.println("Software");
 
 
 int arr[]=new int[20];
+
+While(true){
+    System.out.println("Good");
+}
