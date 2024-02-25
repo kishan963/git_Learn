@@ -6,10 +6,7 @@ for (int i=0;i<10;i++) {
 }
 
 System.out.println("Developer");
+System.out.println("Software");
 
 
-While(true){
-    System.out.println("Good");
-}
-
-
+int arr[]=new int[20];
